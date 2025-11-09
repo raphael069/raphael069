@@ -14,4 +14,4 @@
 ## More about me:
 - 📧 **Email**: [raphael.contact@zohomail.eu](mailto:raphael.contact@zohomail.eu) (Use [PGP](https://keys.openpgp.org/search?q=raphael.contact%40zohomail.eu) ❤️)
 - 👨‍💻 **My Projects**: [GitHub Repositories](https://github.com/cookie0o?tab=repositories)   
-- 🌏 **Personal Website**: [cookie0o.github.io](https://raphael069.github.io/personal-website/)
+- 🌏 **Personal Website**: [cookie0o.github.io](https://github.io/personal-website/)
