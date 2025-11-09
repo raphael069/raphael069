@@ -14,11 +14,4 @@
 ## More about me:
 - 📧 **Email**: [raphael.contact@zohomail.eu](mailto:raphael.contact@zohomail.eu) (Use [PGP](https://keys.openpgp.org/search?q=raphael.contact%40zohomail.eu) ❤️)
 - 👨‍💻 **My Projects**: [GitHub Repositories](https://github.com/cookie0o?tab=repositories)   
-- 🌏 **Personal Website**: [cookie0o.github.io](https://cookie0o.github.io/personal-website/)
-
-<br clear="left"/>
-<p>
-  <a href="/.github/FUNDING.md">
-      <img src="./res/donate_btn.webp" alt="Donate using crypto" width="170px">
-  </a>
-</p>
+- 🌏 **Personal Website**: [cookie0o.github.io](https://raphael069.github.io/personal-website/)
